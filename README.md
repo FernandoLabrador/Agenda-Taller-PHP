@@ -1,5 +1,7 @@
 # Agenda-Taller-PHP
 
+Agenda para registro de ingreso de rodados al taller
+
 Formulario de registro de usuario con sesiones y utilizacion de password hash
 
 Formulario de registro con busqueda y edicion.
