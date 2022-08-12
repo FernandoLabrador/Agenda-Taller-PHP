@@ -14,6 +14,7 @@ Notas* No es la mejor opcion actualizar la pagina completa para mostrar los erro
 
 Evaluar si la muestra de mensajes por secciones genera conflictos de seguridad u otros
 
+La idea de este proyecto era ir resolviendo las necesidades utilizando solamente recursos de php
 
 
 
