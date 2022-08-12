@@ -8,9 +8,12 @@ Formulario de registro con busqueda y edicion.
 
 Mensaje de errores visibles para usuario incorporado 
 
-Mensajes de errores de registro de agenda incorporado
+Mensajes de errores de registro incorporado
 
-Notas* No es la mejor opcion actualizar la pagina completa para mostrar los errores en orden 
+Notas* No es la mejor opcion actualizar la pagina completa para mostrar los errores en orden
+
+Evaluar si la muestra de mensajes por secciones genera conflictos de seguridad u otros
+
 
 
 
